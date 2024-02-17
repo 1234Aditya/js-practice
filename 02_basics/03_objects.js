@@ -9,7 +9,7 @@ const mySym = Symbol("key1")
 const JsUser = {
     name: "Hitesh",
     "full name": "Hitesh Choudhary",
-    [mySym]: "mykey1",      //Important
+    [mySym]: "mykey1",      //Important asa he mySym access hoga vrna iska type string he dikhayga..
     age: 18,
     location: "Jaipur",
     email: "hitesh@google.com",
